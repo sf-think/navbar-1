@@ -111,8 +111,8 @@ body {
 
 .siteList .site .close{
     position: absolute;
-    top: 10%;
-    right: 5%;
+    top: 3%;
+    right: 3%;
     display: none;
 }
 
